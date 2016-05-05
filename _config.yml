@@ -1,0 +1,35 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: false
+gems:                [jekyll-paginate]
+
+# Setup
+title:               Yongjoo Park
+tagline:             'A Computer Science Researcher'
+description:         'PhD candidate<br/> Computer Science and Engineering<br/> University of Michigan, Ann Arbor<br/> pyongjoo@umich.edu'
+url:                 http://www.yongjoopark.com
+baseurl:             ''
+paginate:            5
+
+# About/contact
+author:
+  name:              Yongjoo Park
+  url:               http://www.yongjoopark.com
+  email:             pyongjoo@umich.edu
+
+collections:
+  texts:
+    output: true
+  publications:
+    output: true
+  projects:
+    output: true
+  experiences:
+    output: true
+
+# Custom vars
+version:             0.1.0
+updated:             'May 6 2016'
+
