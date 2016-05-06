@@ -12,4 +12,4 @@ title: Education
 [University of Michigan, Ann Arbor](http://cse.umich.edu/)
 
 **BS** in Electrical Engineering, 2009  
-[Seoul National University](http://ee.snu.ac.kr/en), The most prestigious college in Korea
+[Seoul National University](http://ee.snu.ac.kr/en), the most prestigious college in Korea
