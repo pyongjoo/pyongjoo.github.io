@@ -7,7 +7,7 @@ gems:                [jekyll-paginate]
 
 # Setup
 title:               Yongjoo Park
-tagline:             'A Computer Science Researcher &nbsp;&nbsp; pyongjoo@umich.edu'
+tagline:             'pyongjoo@umich.edu'
 description:         'PhD candidate<br/> Computer Science and Engineering<br/> University of Michigan, Ann Arbor<br/> pyongjoo@umich.edu'
 url:                 http://www.yongjoopark.com
 baseurl:             ''
