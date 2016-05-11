@@ -9,7 +9,7 @@ gems:                [jekyll-paginate]
 title:               Yongjoo Park
 tagline:             'pyongjoo@umich.edu'
 description:         'PhD candidate<br/> Computer Science and Engineering<br/> University of Michigan, Ann Arbor<br/> pyongjoo@umich.edu'
-url:                 http://www.yongjoopark.com
+url:                 http://yongjoopark.com
 baseurl:             ''
 paginate:            5
 
