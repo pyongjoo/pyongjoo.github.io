@@ -6,7 +6,7 @@ title: Peer-reviewed
 1. **Yongjoo Park**, Amhad Shahab Tajik, Michael Cafarella, Barzan Mozafari.  "Database Learning: Toward a Database System that Becomes Smarter Over Time." In submission to PVLDB 2016.
    [(pdf)]({{ site.url }}/resources/dblt.pdf)
 1. **Yongjoo Park**, Michael Cafarella, Barzan Mozafari. "Visualization-Aware Sampling for Very Large Databases." ICDE 2016.
-   [(pdf)]({{ site.url }}/resources/ypark_icde16.pdf)
+   [(pdf)]({{ site.url }}/resources/ypark_icde16.pdf), [(technical report)](http://arxiv.org/abs/1510.03921)
 1. **Yongjoo Park**, Michael Cafarella, Barzan Mozafari. "Neighbor-Sensitive Hashing." PVLDB 2015.
    [(pdf)](http://www.vldb.org/pvldb/vol9/p144-park.pdf), [(supplementary
    document)]({{ site.url }}/resources/vldb2016sup.pdf),
