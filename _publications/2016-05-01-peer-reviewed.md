@@ -6,7 +6,7 @@ title: Conferences and Workshops
 1. **Yongjoo Park**, Amhad Shahab Tajik, Michael Cafarella, Barzan Mozafari.
    *"Database Learning: Toward a Database System that Becomes Smarter Over Time."*
    **In submission to [VLDB 2017](http://www.vldb.org/2017/)**.<br/>
-   [(pdf)]({{ site.url }}/resources/dblt-vldb17.pdf)
+   [(technical report)]({{ site.url }}/resources/dblt-vldb17.pdf)
 
 1. **Yongjoo Park**, Michael Cafarella, Barzan Mozafari.
    *"Neighbor-Sensitive Hashing."*
