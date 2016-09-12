@@ -1,0 +1,11 @@
+
+/* https://css-tricks.com/clipping-masking-css/ */
+.clip-circle {
+  border-radius: 50%;
+  margin: 0 auto;
+  /*-webkit-clip-path: circle(90px at center);
+  box-shadow: 2px 2px 2px #888888;
+          clip-path: circle(90px at center);*/
+  /* OLD VALUE example: circle(245px, 140px, 50px); */
+  /* Yep, even the new clip-path has deprecated stuff. */
+}
