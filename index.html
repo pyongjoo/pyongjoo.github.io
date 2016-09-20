@@ -4,16 +4,27 @@ title: Home
 ---
 
 <div class="posts">
-  {% for post in site.texts %}
+
+  {% for post in site.intro %}
+  <div class="intro">
+    {{ post.content }}
+  </div>
+  {% endfor %}
+
+  <hr>
+
+  {% for post in site.texts reversed %}
   <div class="post">
     <h1 class="post-title">
-      <!--<a href="{{ site.baseurl }}/{{ post.url }}">
-      </a>-->
-      <span class="color-text">
+      <a href="{{ post.href }}" class="color-text">
         {{ post.title }}
-      </span>
+      </a>
     </h1>
 
+    <!--
+      <span class="color-text">
+      </span>
+      -->
     <!---<span class="post-date">{{ post.date | date_to_string }}</span>--->
 
     {{ post.content }}

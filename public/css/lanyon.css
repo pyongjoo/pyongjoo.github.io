@@ -41,12 +41,15 @@ body {
 }
 
 html {
-  font-family: "PT Serif", Georgia, "Times New Roman", serif;
+  /* font-family: "PT Serif", Georgia, "Times New Roman", serif; */
+  font-family: 'Lato', sans-serif;
+  font-weight: 300;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
-  font-weight: 400;
+  /* font-family: "PT Sans", Helvetica, Arial, sans-serif; */
+  font-family: 'Lato', sans-serif;
+  font-weight: bold;
   color: #313131;
   letter-spacing: -.025rem;
 }
@@ -77,16 +80,23 @@ li {
  */
 
 .container {
-  max-width: 28rem;
+  max-width: 35rem;
 }
 @media (min-width: 38em) {
   .container {
-    max-width: 32rem;
+    max-width: 25rem;
   }
 }
-@media (min-width: 56em) {
+@media (min-width: 55em) {
   .container {
-    max-width: 38rem;
+    /*max-width: 38rem;*/
+    max-width: 30rem;
+  }
+}
+@media (min-width: 75em) {
+  .container {
+    /*max-width: 38rem;*/
+    max-width: 50rem;
   }
 }
 
@@ -107,13 +117,15 @@ li {
   margin-top: 0;
   margin-bottom: 0;
   color: #505050;
+  font-size: 30px;
+  font-weight: 400;
 }
 .masthead-title a {
   color: #505050;
 }
 .masthead-title small {
   font-size: 75%;
-  font-weight: 400;
+  font-weight: 300;
   color: #c0c0c0;
   letter-spacing: 0;
 }
@@ -161,13 +173,14 @@ li {
 }
 @media (min-width: 30em) {
   .sidebar {
-    font-size: .75rem; /* 14px */
+    /* font-size: .75rem; /* 14px */
+    font-size: 0.8rem; /* 14px */
   }
 }
 
 /* Sidebar content */
 .sidebar a {
-  font-weight: normal;
+  font-weight: 300;
   color: #fff;
 }
 .sidebar-item {
@@ -310,6 +323,12 @@ a.sidebar-nav-item:focus {
  * Each post is wrapped in `.post` and is used on default and post layouts. Each
  * page is wrapped in `.page` and is only used on the page layout.
  */
+
+.intro {
+  margin-bottom: 4em;
+  font-size: 17px;
+  font-weight: 300;
+}
 
 .page,
 .post {

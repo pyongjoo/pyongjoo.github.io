@@ -20,16 +20,18 @@ author:
   email:             pyongjoo@umich.edu
 
 collections:
+  intro:
+    output: true
   texts:
     output: true
   publications:
     output: true
-  projects:
-    output: true
+  #projects:
+  #  output: true
   experiences:
     output: true
 
 # Custom vars
 version:             0.1.0
-updated:             'May 6 2016'
+updated:             'Sep 20 2016'
 
