@@ -5,11 +5,19 @@ title: Home
 
 <div class="posts">
 
-  {% for post in site.intro %}
-  <div class="intro">
-    {{ post.content }}
+  <div class="row">
+    <div class="col-md-4 hidden-xs hidden-sm">
+      <img src="{{ site.url }}/resources/yongjoopark_vert.jpg" width="90%" />
+    </div>
+
+    <div class="col-md-8">
+      {% for post in site.intro %}
+      <div class="intro">
+        {{ post.content }}
+      </div>
+      {% endfor %}
+    </div>
   </div>
-  {% endfor %}
 
   <hr>
 

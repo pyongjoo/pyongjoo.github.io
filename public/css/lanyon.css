@@ -80,23 +80,23 @@ li {
  */
 
 .container {
-  max-width: 35rem;
+  max-width: 25rem;
 }
+
 @media (min-width: 38em) {
   .container {
-    max-width: 25rem;
+    max-width: 30rem;
   }
 }
 @media (min-width: 55em) {
   .container {
     /*max-width: 38rem;*/
-    max-width: 30rem;
+    max-width: 42rem;
   }
 }
-@media (min-width: 75em) {
+@media (min-width: 65em) {
   .container {
-    /*max-width: 38rem;*/
-    max-width: 50rem;
+    max-width: 53rem;
   }
 }
 
