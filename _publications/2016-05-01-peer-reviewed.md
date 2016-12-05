@@ -5,8 +5,8 @@ title: Peer-Reviewed Conferences
 
 1. **Yongjoo Park**.
    *"Active Database Learning."*
-   **[CIDR 2017](http://cidrdb.org/cidr2017/)**. Abstract, awarded Gong Show.<br/>
-   [(pdf)]({{ site.url }}/resources/active-cidr17.pdf),
+   **[CIDR 2017](http://cidrdb.org/cidr2017/)**.<br/>
+   [(pdf)]({{ site.url }}/resources/active-cidr17.pdf).
 
 1. **Yongjoo Park**, Michael Cafarella, Barzan Mozafari.
    *"Neighbor-Sensitive Hashing."*
