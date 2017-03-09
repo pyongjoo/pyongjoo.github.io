@@ -3,6 +3,10 @@ layout: post
 title: Peer-Reviewed Conferences
 ---
 
+1. **Yongjoo Park**, Amhad Shahab Tajik, Michael Cafarella, Barzan Mozafari.
+   *"Database Learning: Toward a Database that Becomes Smarter Every Time."*
+   **[SIGMOD 2017](http://sigmod2017.org/)**.
+
 1. **Yongjoo Park**.
    *"Active Database Learning."*
    **[CIDR 2017](http://cidrdb.org/cidr2017/)**.<br/>
