@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Peer-Reviewed Conferences
+title: Peer-Reviewed Conference
 ---
 
 1. **Yongjoo Park**, Amhad Shahab Tajik, Michael Cafarella, Barzan Mozafari.
