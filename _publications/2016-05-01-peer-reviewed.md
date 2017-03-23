@@ -5,7 +5,9 @@ title: Conference
 
 1. **Yongjoo Park**, Amhad Shahab Tajik, Michael Cafarella, Barzan Mozafari  
    *"Database Learning: Toward a Database that Becomes Smarter Every Time"*  
-   **[SIGMOD 2017](http://sigmod2017.org/)**
+   **[SIGMOD 2017](http://sigmod2017.org/)**  
+   [(pdf)]({{ site.url }}/resources/sigmod17_378.pdf),
+   [(technical report)](https://arxiv.org/abs/1703.05468)
 
 1. **Yongjoo Park**  
    *"Active Database Learning"*  
