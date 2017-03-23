@@ -19,7 +19,8 @@ title: Conference
    **[ICDE 2016](http://icde2016.fi/)**  
    [(pdf)]({{ site.url }}/resources/ypark_icde16.pdf),
    [(technical report)](http://arxiv.org/abs/1510.03921),
-   [(slides)]({{ site.url }}/resources/vas_slides_icde16.pdf)
+   [(slides)]({{ site.url }}/resources/vas_slides_icde16.pdf),
+   [(demo)](http://yongjoopark.com/vas/)
    
 1. **Yongjoo Park**, Michael Cafarella, Barzan Mozafari  
    *"Neighbor-Sensitive Hashing"*  
