@@ -7,7 +7,8 @@ title: Conference
    *"Database Learning: Toward a Database that Becomes Smarter Every Time"*  
    **[SIGMOD 2017](http://sigmod2017.org/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**(SIGMOD2017 student travel award)**  
    [(pdf)](http://dl.acm.org/citation.cfm?doid=3035918.3064013),
-   [(technical report)](https://arxiv.org/abs/1703.05468)
+   [(technical report)](https://arxiv.org/abs/1703.05468),
+   [(slides)]({{ site.url }}/resources/db-learning-slides-sigmod17.pdf)
 
 1. **Yongjoo Park**  
    *"Active Database Learning"*  
