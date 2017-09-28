@@ -32,6 +32,6 @@ collections:
     output: true
 
 # Custom vars
-version:             0.1.0
-updated:             'Sep 20 2016'
+version:             1.0.0
+updated:             'Sep 28 2017'
 
