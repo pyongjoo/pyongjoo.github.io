@@ -3,7 +3,7 @@
 
   {% include head.html %}
 
-  <body class="theme-base-08">
+  <body class="theme-base-08 layout-reverse sidebar-overlay">
 
     {% include sidebar.html %}
 
@@ -27,7 +27,7 @@
 
     <label for="sidebar-checkbox" class="sidebar-toggle"></label>
 
-    <script>
+    <!-- <script>
       (function(document) {
         var toggle = document.querySelector('.sidebar-toggle');
         var sidebar = document.querySelector('#sidebar');
@@ -43,7 +43,7 @@
           checkbox.checked = false;
         }, false);
       })(document);
-    </script>
+    </script> -->
 
     {% if jekyll.environment == 'production' %}
     {% include analytics.html %}

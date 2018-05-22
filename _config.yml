@@ -8,7 +8,7 @@ gems:                [jekyll-paginate]
 # Setup
 title:               Yongjoo Park
 tagline:             'pyongjoo@umich.edu'
-description:         'PhD candidate<br/> Computer Science and Engineering<br/> University of Michigan, Ann Arbor<br/> pyongjoo@umich.edu'
+description:         'Research Fellow<br/> Computer Science and Engineering<br/> University of Michigan, Ann Arbor<br/> pyongjoo@umich.edu'
 url:                 http://yongjoopark.com
 baseurl:             ''
 paginate:            5
@@ -33,5 +33,5 @@ collections:
 
 # Custom vars
 version:             1.0.0
-updated:             'Sep 28 2017'
+updated:             'May 22 2018'
 
