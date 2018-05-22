@@ -22,7 +22,9 @@ title: Home
   <hr>
 
   {% for post in site.texts reversed %}
+  {% if post.ignore != true %}
   <div class="post">
+
     <h1 class="post-title">
       <a href="{{ post.href }}" class="color-text">
         {{ post.title }}
@@ -37,6 +39,7 @@ title: Home
 
     {{ post.content }}
   </div>
+  {% endif %}
   {% endfor %}
 </div>
 

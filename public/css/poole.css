@@ -122,6 +122,10 @@ ul, ol, dl {
   margin-bottom: 1rem;
 }
 
+.post > ol {
+  padding-left: 1em;
+}
+
 dt {
   font-weight: 300;
 }
