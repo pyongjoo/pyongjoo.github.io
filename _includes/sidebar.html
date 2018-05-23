@@ -1,6 +1,19 @@
 <!-- Target for toggling the sidebar `.sidebar-checkbox` is for regular
      styles, `#sidebar-checkbox` for behavior. -->
-<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox" checked>
+<!-- <input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox" > -->
+
+<!-- https://github.com/poole/lanyon/issues/139 -->
+<script>
+if ( $(window).width() > 1100) {
+  //Add your javascript for large screens here
+  document.write('<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox" checked>');
+}
+else {
+  //Add your javascript for small screens here
+  document.write('<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">');
+
+}
+</script>
 
 <!-- Toggleable sidebar -->
 <div class="sidebar" id="sidebar">
