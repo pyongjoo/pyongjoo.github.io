@@ -6,12 +6,15 @@ title: Peer-reviewed publications
 1. **VerdictDB: Universalizing Approximate Query Processing**  
    Yongjoo Park, Barzan Mozafari, Joseph Sorenson, Junhao Wang  
    **[SIGMOD 2018](http://sigmod2018.org/)**  
-   [(technical report)](https://arxiv.org/abs/1804.00770)
+   [(pdf)](https://dl.acm.org/citation.cfm?id=3196905),
+   [(technical report)](https://arxiv.org/abs/1804.00770),
+   [(slides)]({{ site.url }}/resources/verdictdb_sigmod18.pdf)
 
 1. **Demonstration of VerdictDB, the Platform-Independent AQP System**  
    Wen He, Yongjoo Park, Idris Hanafi, Jacob Yatvitskiy, Barzan Mozafari  
    **[SIGMOD 2018](http://sigmod2018.org/)** (demo)
-
+   [(pdf)](https://dl.acm.org/citation.cfm?id=3193538),
+   
 1. **Database Learning: Toward a Database that Becomes Smarter Every Time**  
    Yongjoo Park, Amhad Shahab Tajik, Michael Cafarella, Barzan Mozafari  
    **[SIGMOD 2017](http://sigmod2017.org/)**  
