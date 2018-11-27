@@ -3,6 +3,11 @@ layout: post
 title: Peer-reviewed publications
 ---
 
+1. **BlinkML: Approximate Machine Learning with Probabilistic Guarantees**  
+   **[SIGMOD 2019](http://sigmod2019.org/)**  
+   Yongjoo Park, Jingyi Qing, Xiaoyang Shen, Barzan Mozafari  
+   *(camera-ready is in preparation)*
+
 1. **VerdictDB: Universalizing Approximate Query Processing**  
    Yongjoo Park, Barzan Mozafari, Joseph Sorenson, Junhao Wang  
    **[SIGMOD 2018](http://sigmod2018.org/)**  
