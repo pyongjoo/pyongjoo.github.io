@@ -3,7 +3,7 @@ layout: post
 title: Peer-reviewed publications
 ---
 
-1. **BlinkML: Approximate Machine Learning with Probabilistic Guarantees**  
+1. **BlinkML: Efficient Maximum Likelihood Estimation with Probabilistic Guarantees**  
    **[SIGMOD 2019](http://sigmod2019.org/)**  
    Yongjoo Park, Jingyi Qing, Xiaoyang Shen, Barzan Mozafari  
    *(camera-ready is in preparation)*
