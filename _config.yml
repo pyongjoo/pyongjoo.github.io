@@ -9,14 +9,14 @@ gems:                [jekyll-paginate]
 title:               Yongjoo Park
 # tagline:             ''
 description:         'Research Fellow<br/> Computer Science and Engineering<br/> University of Michigan, Ann Arbor<br/>4957 Bob and Betty Beyster<br/> pyongjoo@umich.edu'
-url:                 http://yongjoopark.com
+url:                 https://yongjoopark.com
 baseurl:             ''
 paginate:            5
 
 # About/contact
 author:
   name:              Yongjoo Park
-  url:               http://www.yongjoopark.com
+  url:               https://yongjoopark.com
   email:             pyongjoo@umich.edu
 
 collections:
@@ -33,5 +33,5 @@ collections:
 
 # Custom vars
 version:             1.0.0
-updated:             'May 22 2018'
+updated:             'December 2 2018'
 
