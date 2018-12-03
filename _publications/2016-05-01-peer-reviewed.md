@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Peer-reviewed publications
+title: Peer-Reviewed Publications
 ---
 
 1. **BlinkML: Efficient Maximum Likelihood Estimation with Probabilistic Guarantees**  
