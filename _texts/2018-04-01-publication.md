@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Peer-reviewed publications (click here to see other publications/talks)
+title: Peer-Reviewed Publications (click here to see other publications/talks)
 href: "/publications"
 ---
 
