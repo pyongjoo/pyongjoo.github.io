@@ -7,7 +7,7 @@ href: "/publications"
 1. **Yongjoo Park**, Jingyi Qing, Xiaoyang Shen, Barzan Mozafari  
    **[BlinkML: Efficient Maximum Likelihood Estimation with Probabilistic Guarantees](http://sigmod2019.org/)**  
    **SIGMOD 2019** (research)  
-   *(camera-ready is in preparation)*
+   [(pdf)]({{ site.url }}/resources/blinkml_sigmod19_pdf.pdf)
 
 1. **Yongjoo Park**, Barzan Mozafari, Joseph Sorenson, Junhao Wang  
    **[VerdictDB: Universalizing Approximate Query Processing](https://dl.acm.org/citation.cfm?id=3196905)**  
