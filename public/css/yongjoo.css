@@ -6,7 +6,7 @@ body {
 }
 
 b, strong {
-  font-weight: 400;
+  font-weight: 400 !important;
 }
 
 /* https://css-tricks.com/clipping-masking-css/ */
