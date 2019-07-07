@@ -5,7 +5,7 @@ href: "/publications"
 ---
 
 1. **Yongjoo Park**, Jingyi Qing, Xiaoyang Shen, Barzan Mozafari  
-   **[BlinkML: Efficient Maximum Likelihood Estimation with Probabilistic Guarantees](http://sigmod2019.org/)**  
+   **[BlinkML: Efficient Maximum Likelihood Estimation with Probabilistic Guarantees](https://dl.acm.org/citation.cfm?id=3300077)**  
    **SIGMOD 2019** (research)  
    [(pdf)]({{ site.url }}/resources/blinkml_sigmod19_pdf.pdf),
    [(a longer version)](https://arxiv.org/pdf/1812.10564.pdf),
