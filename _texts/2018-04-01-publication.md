@@ -15,7 +15,7 @@ href: "/publications"
    **[VerdictDB: Universalizing Approximate Query Processing](https://dl.acm.org/citation.cfm?id=3196905)**  
    **SIGMOD 2018** (research)  
    [(pdf)](https://dl.acm.org/citation.cfm?id=3196905),
-   [(a longer version)](https://arxiv.org/abs/1804.00770),
+   [(a longer version)](https://arxiv.org/pdf/1804.00770),
    [(slides)]({{ site.url }}/resources/verdictdb_sigmod18.pdf)
 
 1. Wen He, **Yongjoo Park**, Idris Hanafi, Jacob Yatvitskiy, Barzan Mozafari  
@@ -27,7 +27,7 @@ href: "/publications"
    **[Database Learning: Toward a Database that Becomes Smarter Every Time](http://dl.acm.org/citation.cfm?doid=3035918.3064013)**  
    **SIGMOD 2017** (research)  
    [(pdf)](http://dl.acm.org/citation.cfm?doid=3035918.3064013),
-   [(a longer version)](https://arxiv.org/abs/1703.05468),
+   [(a longer version)](https://arxiv.org/pdf/1703.05468),
    [(slides)]({{ site.url }}/resources/db-learning-slides-sigmod17.pdf)
 
 1. **Yongjoo Park**  
@@ -39,7 +39,7 @@ href: "/publications"
    **[Visualization-Aware Sampling for Very Large Databases]({{ site.url }}/resources/ypark_icde16.pdf)**  
    **ICDE 2016** (research)  
    [(pdf)]({{ site.url }}/resources/ypark_icde16.pdf),
-   [(a longer version)](http://arxiv.org/abs/1510.03921),
+   [(a longer version)](http://arxiv.org/pdf/1510.03921),
    [(slides)]({{ site.url }}/resources/vas_slides_icde16.pdf),
    [(demo)](http://yongjoopark.com/vas/)
 
