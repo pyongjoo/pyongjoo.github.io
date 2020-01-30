@@ -8,8 +8,8 @@ gems:                []
 # Setup
 title:               Yongjoo Park
 # tagline:             ''
-description:         'Assistant Professor (from 2020)<br/> Department of Computer Science<br/> University of Illinois at Urbana-Champaign<br/>yongjoo@illinois.edu 
-  <br/> <br/> Co-founder <br/>Keebo, Inc. <br/> yongjoo@keebo.ai'
+description:         'Adjunt Assistant Professor<br/> Department of Computer Science<br/> University of Illinois at Urbana-Champaign<br/>yongjoo@illinois.edu 
+  <br/> <br/> Co-founder and CTO<br/> Keebo, Inc. <br/> yongjoo@keebo.ai'
 url:                 https://yongjoopark.com
 baseurl:             ''
 paginate:            5
