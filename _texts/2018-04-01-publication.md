@@ -4,6 +4,13 @@ title: Peer-Reviewed Publications (click here to see other publications/talks)
 href: "/publications"
 ---
 
+
+1. **Yongjoo Park**\* , Shucheng Zhong\*, Barzan Mozafari    
+   **QuickSel: Quick Selectivity Learning with Mixture Models**  
+   **SIGMOD 2020** (research)  
+   (camera-ready in preparation)  
+   \* indicates equal contributions
+
 1. **Yongjoo Park**, Jingyi Qing, Xiaoyang Shen, Barzan Mozafari  
    **[BlinkML: Efficient Maximum Likelihood Estimation with Probabilistic Guarantees](https://dl.acm.org/citation.cfm?id=3300077)**  
    **SIGMOD 2019** (research)  
