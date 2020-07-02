@@ -21,7 +21,9 @@ title: Peer-Reviewed Publications
    **SIGMOD 2018** (research)  
    [(pdf)](https://dl.acm.org/citation.cfm?id=3196905),
    [(technical report)](https://arxiv.org/abs/1804.00770),
-   [(slides)]({{ site.url }}/resources/verdictdb_sigmod18.pdf)
+   [(slides)]({{ site.url }}/resources/verdictdb_sigmod18.pdf),
+   [(project website)](https://verdictdb.org/),
+   [(GitHub repo)](https://github.com/verdict-project/verdict)
 
 1. Wen He, **Yongjoo Park**, Idris Hanafi, Jacob Yatvitskiy, Barzan Mozafari  
    **[Demonstration of VerdictDB, the Platform-Independent AQP System](https://dl.acm.org/citation.cfm?id=3193538)**  
