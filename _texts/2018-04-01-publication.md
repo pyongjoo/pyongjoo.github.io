@@ -6,7 +6,7 @@ href: "/publications"
 
 
 1. **Yongjoo Park**\* , Shucheng Zhong\*, Barzan Mozafari    
-   **QuickSel: Quick Selectivity Learning with Mixture Models**  
+   **[QuickSel: Quick Selectivity Learning with Mixture Models](https://dl.acm.org/doi/abs/10.1145/3318464.3389727)**  
    **SIGMOD 2020** (research)  
    [(pdf)]({{ site.url }}/resources/quicksel_sigmod20.pdf),
    [(a longer version)](https://arxiv.org/pdf/1812.10568.pdf),
