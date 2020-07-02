@@ -6,7 +6,9 @@ title: Peer-Reviewed Publications
 1. **Yongjoo Park**\* , Shucheng Zhong\*, Barzan Mozafari    
    **QuickSel: Quick Selectivity Learning with Mixture Models**  
    **SIGMOD 2020** (research)  
-   (camera-ready in preparation)  
+   [(pdf)]({{ site.url }}/resources/quicksel_sigmod20.pdf),
+   [(a longer version)](https://arxiv.org/pdf/1812.10568.pdf),
+   [(code)](https://github.com/illinoisdata/quicksel)  
    \* indicates equal contributions
 
 1. **Yongjoo Park**, Jingyi Qing, Xiaoyang Shen, Barzan Mozafari  
