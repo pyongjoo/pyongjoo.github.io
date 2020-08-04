@@ -4,6 +4,10 @@ title: Peer-Reviewed Publications (click here to see other publications/talks)
 href: "/publications"
 ---
 
+1. Johes Bater, Yongjoo Park, Xi He, Xiao Wang, Jennie Rogers  
+   **SAQE: Practical Privacy-Preserving Approximate Query Processing for Data Federations**  
+   **VLDB 2020** (research)  
+   *to appear*
 
 1. **Yongjoo Park**\* , Shucheng Zhong\*, Barzan Mozafari    
    **[QuickSel: Quick Selectivity Learning with Mixture Models](https://dl.acm.org/doi/abs/10.1145/3318464.3389727)**  
@@ -12,7 +16,6 @@ href: "/publications"
    [(a longer version)](https://arxiv.org/pdf/1812.10568.pdf),
    [(code)](https://github.com/illinoisdata/quicksel)  
    \* indicates equal contributions
-   
 
 1. **Yongjoo Park**, Jingyi Qing, Xiaoyang Shen, Barzan Mozafari  
    **[BlinkML: Efficient Maximum Likelihood Estimation with Probabilistic Guarantees](https://dl.acm.org/citation.cfm?id=3300077)**  
