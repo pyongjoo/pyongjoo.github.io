@@ -4,7 +4,7 @@ title: Peer-Reviewed Publications
 ---
 
 
-1. Johes Bater, Yongjoo Park, Xi He, Xiao Wang, Jennie Rogers  
+1. Johes Bater, **Yongjoo Park**, Xi He, Xiao Wang, Jennie Rogers  
    **SAQE: Practical Privacy-Preserving Approximate Query Processing for Data Federations**  
    **PVLDB 2020** (research)  
    *to appear*
