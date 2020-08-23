@@ -44,6 +44,12 @@ $on-laptop:        800px;
 }
 
 
+// my custom
+.profile-image {
+	border-radius: 50%;
+}
+
+
 
 // Import partials from the `whiteglass` theme.
 @import "whiteglass";

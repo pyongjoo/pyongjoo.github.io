@@ -1,5 +1,6 @@
 ---
 layout: post
+hidden: false
 title: "This post demonstrates post content styles"
 categories: junk
 author: "Bart Simpson"

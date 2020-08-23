@@ -2,10 +2,10 @@
 # pages in order as they should show up.
 main:
   - title: "Home"
-    url: /about/
+    url: /
   - title: "Publication"
     url: /publication/
   - title: "Experience"
-    url: /experience/
+    url: /about/
   - title: "Thoughts"
     url: /archives/
