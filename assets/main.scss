@@ -47,8 +47,18 @@ $on-laptop:        800px;
 // my custom
 .profile-image {
 	border-radius: 50%;
+    // border:10px solid red;
 }
 
+.profile-block {
+    font-size: 16px;
+}
+
+.vcenter {
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+}
 
 
 // Import partials from the `whiteglass` theme.
