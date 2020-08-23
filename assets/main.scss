@@ -3,8 +3,11 @@
 ---
 @charset "utf-8";
 
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata&family=Lato:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Open+Sans:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=Poppins:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400;1,700&display=swap');
+
 // Our variables
-$base-font-family: Bitter, "Apple SD Gothic Neo", AppleGothic, NanumBarunGothic, "Malgun Gothic", Dotum, sans-serif;
+// $base-font-family: Bitter, "Apple SD Gothic Neo", AppleGothic, NanumBarunGothic, "Malgun Gothic", Dotum, sans-serif;
+$base-font-family: 'Open Sans', sans-serif;
 $monospace-font-family: Monaco, Menlo, Consolas, "Courier New", DotumChe, monospace;
 $base-font-size:   16px;
 $base-font-weight: 400;
@@ -15,7 +18,8 @@ $spacing-unit:     30px;
 
 $text-color:       #111;
 $background-color: #fdfdfd;
-$brand-color:      #2568ba;
+// $brand-color:      #2568ba;
+$brand-color:      #FF4602;
 
 $grey-color:       #757575;
 $grey-color-light: lighten($grey-color, 45%);
@@ -44,15 +48,51 @@ $on-laptop:        800px;
 }
 
 
-// my custom
-.profile-image {
-	border-radius: 50%;
-    // border:10px solid red;
+// Import partials from the `whiteglass` theme.
+@import "whiteglass";
+
+
+// My custom styles
+
+
+.profile {
+	margin-bottom: 30px;
+	
+	.profile-block {
+		font-family: 'Lato', sans-serif;
+	    font-size: 16px;
+	    font-weight: 400;
+
+	    .profile-name {
+	    	font-family: 'Poppins', sans-serif;
+	    	margin-bottom: 30px;
+	    	font-weight: 600;
+	    }
+
+	    .profile-position {
+	    	font-family: 'Open Sans', sans-serif;
+	    	font-size: 16px;
+	    }
+
+		.profile-email {
+			font-family: 'Inconsolata', monospace;
+			font-weight: 300;
+			font-size: 17px;
+		}
+
+		.profile-image {
+			border-radius: 50%;
+	    	// border:10px solid red;
+		}
+
+		.interest {
+			font-family: 'Open Sans', sans-serif;
+			font-size: 16px;
+			margin-top: 20px;
+		}
+	}
 }
 
-.profile-block {
-    font-size: 16px;
-}
 
 .vcenter {
     display: inline-block;
@@ -60,6 +100,3 @@ $on-laptop:        800px;
     float: none;
 }
 
-
-// Import partials from the `whiteglass` theme.
-@import "whiteglass";

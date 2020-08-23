@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.author }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Yongjoo Park
+title: 
 author: Yongjoo Park
-description: Basic information about Yongjoo Park
+description: Story of Yongjoo
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://yous.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 lang: en
@@ -52,7 +52,7 @@ excerpt_separator: "<!-- more -->"
 
 # Outputting
 permalink: /:year/:month/:day/:title/
-paginate_path: /posts/:num/
+paginate_path: /thoughts/:num/
 paginate: 5
 
 # Markdown settings
@@ -64,12 +64,16 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   toc_levels: 1..6
 
+# Collections
+collections:
+  - home
+
 # jekyll-archives
-jekyll-archives:
-  enabled:
-    - categories
-    - tags
-  layout: category_archives
-  permalinks:
-    category: /categories/:name/
-    tag: /tags/:name/
+# jekyll-archives:
+#   enabled:
+#     - categories
+#     - tags
+#   layout: category_archives
+#   permalinks:
+#     category: /categories/:name/
+#     tag: /tags/:name/

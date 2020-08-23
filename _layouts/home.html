@@ -9,9 +9,12 @@ layout: default
   {% capture site_lang %}{{ site.lang | default: "en" }}{% endcapture %}
 
   <ul class="post-list">
-    {% for post in paginator.posts %}
+    {% for post in site.home %}
+
       {% capture post_lang %}{{ post.lang | default: site_lang }}{% endcapture %}
       {% capture lang %}{% if post_lang != site_lang %}{{ post_lang }}{% endif %}{% endcapture %}
+
+      {% if post.hidden != true %}
 
       <li{% if lang != empty %} lang="{{ lang }}"{% endif %}>
         <header class="post-header">
@@ -21,7 +24,8 @@ layout: default
             {% if post.external-url %}
               <a class="post-link" href="{{ post.external-url }}">{{ post.title | escape }} &rarr;</a>
             {% else %}
-              <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+              <!-- <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a> -->
+              {{ post.title | escape }}
             {% endif %}
           </h1>
           {% endif %}
@@ -46,9 +50,10 @@ layout: default
           </p>
         {% endif %}
       </li>
+
+      {% endif %}
+
     {% endfor %}
   </ul>
-
-  {% include pagination.html %}
 
 </div>
