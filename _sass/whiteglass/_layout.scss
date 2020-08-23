@@ -84,7 +84,7 @@
 
   > li {
     // margin-bottom: $spacing-unit * 2;
-    margin-bottom: $spacing-unit * 1.8;
+    margin-bottom: $spacing-unit * 1;
 
     &:not(:first-child) {
       // border-top: 4px solid $grey-color-light;
@@ -155,7 +155,7 @@
 
 .post-title {
   // font-size: 42px;
-  font-size: 32px;
+  font-size: 28px;
   font-family: 'Poppins', sans-serif !important;
   font-weight: 400;
   letter-spacing: -1px;
@@ -170,11 +170,12 @@
   margin-bottom: $spacing-unit;
 
   h1 {
-    font-size: 32px;
+    font-size: 28px;
     font-family: 'Poppins', sans-serif !important;
+    font-weight: 300;
 
     @include media-query($on-laptop) {
-      font-size: 32px;
+      font-size: 28px;
     }
   }
 
