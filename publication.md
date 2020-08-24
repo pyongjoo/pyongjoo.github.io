@@ -129,3 +129,40 @@ while the conferences like ICDE and CIKM are more inter-disciplinary (both data 
    Extended Abstract
 
 
+
+### TALKS
+
+1. SIGMOD, Amsterdam, June 2019
+1. WAX workshop, Phoenix, June 2019
+1. Criteo NABD conference, Ann Arbor, May 2019
+1. University of Texas, Austin, April 2019
+1. Penn State University, State College, April 2019
+1. Purdue University, West Lafayette, April 2019
+1. Northeastern University, Boston, March 2019
+1. University of Waterloo, March 2019
+1. Georgia Tech, Atlanta, March 2019
+1. University of Illinois, Urbana-Champaign, March 2019
+1. Microsoft Research, Redmond, February 2019
+1. Northwestern University, Redmond, February 2019
+1. Microsoft, Redmond, February 2019
+1. IBM Research, Almaden, February 2019
+1. SIGMOD, Houstin, June 2018
+1. AVL (www.avl.com), Ann Arbor, April 2018
+1. Oracle BI Group, Redwood City, December 2017
+1. ACAIA workshop, San Jose, November 2017
+1. Oracle Database Group, Redwood City, November 2017
+1. Cloudera Impala Team, Palo Alto, November 2017
+1. Big Data Innovation Summit, Boston, Septempber 2017
+1. New Tech Meetup, Ann Arbor, July 2017
+1. SIGMOD, Chicago, May 2017
+1. University of Michigan Software Group, Ann Arbor, May 2017
+1. Brown Database Group, Providence, March 2017
+1. Stanford InfoLab, Palo Alto, February 2017
+1. CIDR, Chaminade, California, January 2017
+1. MBDOC, Chicago, September 2016
+1. VLDB, New Delhi, India, September 2016
+1. ICDE, Helsinki, Finland, May 2016
+1. AVL (www.avl.com), Ann Arbor, April 2016
+1. NEDB, Boston, January 2016
+1. VSM@ICCV, Santiago, Chile, December 2015
+
