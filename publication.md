@@ -1,10 +1,21 @@
 ---
 layout: page
-title: "Publication"
+title: "PUBLICATION"
 permalink: /publication/
 ---
 
-### Peer-Reviewed
+
+**Note for non-CS folks:**
+Unlike many other disciplines, in computer science,
+conferences are the major venues for publishing research results and disseminating state-of-the-art knowledge.
+The primary conferences in the data-systems area include SIGMOD and VLDB 
+while the conferences like ICDE and CIKM are more inter-disciplinary (both data systems and data mining).
+
+<div style="margin-bottom: 40px;"></div>
+
+
+
+### PEER-REVIEWED CONFERENCES
 
 1. Johes Bater, **Yongjoo Park**, Xi He, Xiao Wang, Jennie Rogers  
    **SAQE: Practical Privacy-Preserving Approximate Query Processing for Data Federations**  
@@ -75,7 +86,7 @@ permalink: /publication/
 
 
 
-### Technical Reports
+### TECHNICAL REPORTS
 
 1. **Yongjoo Park**, Barzan Mozafari, Joseph Sorenson, Junhao Wang  
    **[VerdictDB: Universalizing Approximate Query Processing](https://arxiv.org/abs/1804.00770)**
@@ -91,7 +102,7 @@ permalink: /publication/
 
 
 
-### Workshops (no proceedings)
+### WORKSHOPS (no proceedings)
 
 1. **Yongjoo Park**  
    Approximation is Bliss: Approximate Computing in Database Systems  

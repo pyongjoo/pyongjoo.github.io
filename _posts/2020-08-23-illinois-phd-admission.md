@@ -10,6 +10,11 @@ title: IllinoisCS' Admission Process
 
 <!-- more -->
 
+**TL;DR**
+1. The final decisions are made by the committee.
+1. To reach the final stage, each applicant must be supported by a certain number of faculty members.
+1. To give supports, faculty members assess application materials (e.g., letters, transcript, papers, etc.).
+
 This post shares limited information about IllinoisCS' admission process. No sensitive information included. Only to help prospective graduate students.
 
 Last winter, as a new faculty at the University of Illinois at Urbana-Champaign, I experienced the admission process (in the computer science department) for the first time *from the other side*.
