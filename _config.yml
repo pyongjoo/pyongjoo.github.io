@@ -42,9 +42,9 @@ comments: false
 theme: jekyll-whiteglass
 # Plugins
 plugins:
-  - jekyll-archives
+  # - jekyll-archives
   - jekyll-paginate
-  - jekyll-sitemap
+  # - jekyll-sitemap
 
 # Build settings
 markdown: kramdown
