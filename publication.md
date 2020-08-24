@@ -15,7 +15,7 @@ while the conferences like ICDE and CIKM are more inter-disciplinary (both data 
 
 
 
-### PEER-REVIEWED CONFERENCES
+### CONFERENCES PROCEEDINGS
 
 1. Johes Bater, **Yongjoo Park**, Xi He, Xiao Wang, Jennie Rogers  
    **SAQE: Practical Privacy-Preserving Approximate Query Processing for Data Federations**  
