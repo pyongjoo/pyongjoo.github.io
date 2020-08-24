@@ -15,9 +15,9 @@ Gem::Specification.new do |spec|
   end
 
   spec.add_runtime_dependency "jekyll", ">= 3.3"
-  spec.add_runtime_dependency "jekyll-archives", "~> 2.1"
+  # spec.add_runtime_dependency "jekyll-archives", "~> 2.1"
   spec.add_runtime_dependency "jekyll-paginate", "~> 1.1"
-  spec.add_runtime_dependency "jekyll-sitemap", "~> 1.0"
+  # spec.add_runtime_dependency "jekyll-sitemap", "~> 1.0"
 
   spec.add_development_dependency "bundler"
   spec.add_development_dependency "rake"
