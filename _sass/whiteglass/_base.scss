@@ -149,8 +149,9 @@ blockquote {
  * Rules
  */
 hr {
-  height: 4px;
+  height: 2px;
   margin: $spacing-unit / 2 0;
+  margin-bottom: 0;
   border: 0;
   background-color: $grey-color-light;
 }
