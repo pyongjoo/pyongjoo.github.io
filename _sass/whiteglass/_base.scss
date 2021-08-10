@@ -1,3 +1,7 @@
+.extra-row-spacer{
+    margin-bottom: 50px;
+}
+
 /**
  * Reset some basic elements
  */
@@ -78,15 +82,15 @@ figcaption {
 ul, ol {
   margin-left: $spacing-unit;
   margin-bottom: $spacing-unit * 0.8 !important;
+  // margin-bottom: $spacing-unit * 0.8;
 }
 
 li {
   > ul,
   > ol {
-    margin-bottom: 0;
+    margin-bottom: 0 !important;
   }
 }
-
 
 
 /**
