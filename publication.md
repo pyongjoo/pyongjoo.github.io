@@ -17,6 +17,10 @@ while the conferences like ICDE and CIKM are more inter-disciplinary (both data 
 
 ### CONFERENCE PROCEEDINGS
 
+1. **A Step Toward Deep Online Aggregation**  
+   Nikhil Sheoran, Supawit Chockchowwat, Arav Chheda, Suwen Wang, Riya Verma, **Yongjoo Park**  
+   **SIGMOD 2023** (research)  
+
 1. **S/C: Speeding up Data Materialization with Bounded Memory**  
    Zhaoheng Li, Xinyu Pi, **Yongjoo Park**  
    **ICDE 2023** (research)  
