@@ -17,6 +17,10 @@ while the conferences like ICDE and CIKM are more inter-disciplinary (both data 
 
 ### CONFERENCE PROCEEDINGS
 
+1. **Making Data Clouds Smarter at Keebo: Automated Warehouse Optimization using Data Learning**  
+   The Keebo Team  
+   **SIGMOD 2023** (industry)  
+
 1. **A Step Toward Deep Online Aggregation**  
    Nikhil Sheoran, Supawit Chockchowwat, Arav Chheda, Suwen Wang, Riya Verma, **Yongjoo Park**  
    **SIGMOD 2023** (research)  
