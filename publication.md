@@ -17,6 +17,10 @@ while the conferences like ICDE and CIKM are more inter-disciplinary (both data 
 
 ### CONFERENCE PROCEEDINGS
 
+1. **Transactional Python for Durable Machine Learning: Vision, Challenges, and Feasibility**  
+   Supawit Chockchowwat, Zhaoheng Li, **Yongjoo Park**  
+   **DEEM@SIGMOD 2023** (research)  
+
 1. **Making Data Clouds Smarter at Keebo: Automated Warehouse Optimization using Data Learning**  
    The Keebo Team  
    **SIGMOD 2023** (industry)  
