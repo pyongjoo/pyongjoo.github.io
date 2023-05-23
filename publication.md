@@ -17,6 +17,10 @@ while the conferences like ICDE and CIKM are more inter-disciplinary (both data 
 
 ### CONFERENCE PROCEEDINGS
 
+1. **AirIndex: Versatile Index Tuning Through Data and Storage**  
+   Supawit Chockchowwat, Wenjie Liu, **Yongjoo Park**  
+   **SIGMOD 2024** (research)  
+
 1. **Transactional Python for Durable Machine Learning: Vision, Challenges, and Feasibility**  
    Supawit Chockchowwat, Zhaoheng Li, **Yongjoo Park**  
    **DEEM@SIGMOD 2023** (research)  
