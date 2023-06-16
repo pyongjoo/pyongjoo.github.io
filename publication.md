@@ -4,12 +4,8 @@ title: "PUBLICATION"
 permalink: /publication/
 ---
 
-
-**Note for non-CS folks:**
-Unlike many other disciplines, in computer science,
-conferences are the major venues for publishing research results and disseminating state-of-the-art knowledge.
-The primary conferences in the data-systems area include SIGMOD and VLDB 
-while the conferences like ICDE and CIKM are more inter-disciplinary (both data systems and data mining).
+My primary publication venues are computer science conferences in the areas of data management,
+systems, and others.
 
 <div style="margin-bottom: 40px;"></div>
 
@@ -17,29 +13,38 @@ while the conferences like ICDE and CIKM are more inter-disciplinary (both data 
 
 ### CONFERENCE PROCEEDINGS
 
+1. **LADIO: Leakage-Aware Direct I/O for I/O-Intensive Workloads**  
+   poom Jeong, Jiaqi Lou, Yongseok Son, **Yongjoo Park**, Yifan Yuan, and Nam Sung Kim  
+   **IEEE CAL 2023**: IEEE Computer Architecture Letters (research)  
+
 1. **AirIndex: Versatile Index Tuning Through Data and Storage**  
    Supawit Chockchowwat, Wenjie Liu, **Yongjoo Park**  
    **SIGMOD 2024** (research)  
+   [(camera-ready in prep)]() &nbsp;&nbsp; [(source code on GitHub)](https://github.com/illinoisdata/airindex-public)
 
 1. **Transactional Python for Durable Machine Learning: Vision, Challenges, and Feasibility**  
    Supawit Chockchowwat, Zhaoheng Li, **Yongjoo Park**  
-   **DEEM@SIGMOD 2023** (research)  
+   **DEEM workshop @SIGMOD 2023** (research)  
+   [(pdf on arxiv)](https://arxiv.org/abs/2305.08770)
 
 1. **Making Data Clouds Smarter at Keebo: Automated Warehouse Optimization using Data Learning**  
    The Keebo Team  
    **SIGMOD 2023** (industry)  
+   [(pdf on acm)](https://dl.acm.org/doi/10.1145/3555041.3589681)
 
 1. **A Step Toward Deep Online Aggregation**  
    Nikhil Sheoran, Supawit Chockchowwat, Arav Chheda, Suwen Wang, Riya Verma, **Yongjoo Park**  
    **SIGMOD 2023** (research)  
+   [(pdf on arxiv)](https://arxiv.org/abs/2303.04103)
 
 1. **S/C: Speeding up Data Materialization with Bounded Memory**  
    Zhaoheng Li, Xinyu Pi, **Yongjoo Park**  
    **ICDE 2023** (research)  
+   [(pdf on arxiv)](https://arxiv.org/abs/2303.09774)
 
 1. **[Automatically Finding Optimal Index Structure](https://sites.google.com/view/aidb2022/home/accepted-papers?authuser=0)**  
    Supawit Chockchowwat, Wenjie Liu, **Yongjoo Park**  
-   **AIDB workshop at VLDB 2022**  
+   **AIDB workshop @VLDB 2022**  
    [(pdf)](https://arxiv.org/abs/2208.03823)
 
 1. **[The Effects of Teaching Modality on Collaborative Learning: A Controlled Study](https://ieeexplore.ieee.org/document/9962705/)**  
