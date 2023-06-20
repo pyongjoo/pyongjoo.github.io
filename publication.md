@@ -14,7 +14,7 @@ systems, and others.
 ### CONFERENCE PROCEEDINGS
 
 1. **LADIO: Leakage-Aware Direct I/O for I/O-Intensive Workloads**  
-   poom Jeong, Jiaqi Lou, Yongseok Son, **Yongjoo Park**, Yifan Yuan, and Nam Sung Kim  
+   Ipoom Jeong, Jiaqi Lou, Yongseok Son, **Yongjoo Park**, Yifan Yuan, and Nam Sung Kim  
    **IEEE CAL 2023**: IEEE Computer Architecture Letters (research)  
 
 1. **AirIndex: Versatile Index Tuning Through Data and Storage**  
