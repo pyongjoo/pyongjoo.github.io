@@ -20,22 +20,26 @@ systems, and others.
 1. **AirIndex: Versatile Index Tuning Through Data and Storage**  
    Supawit Chockchowwat, Wenjie Liu, **Yongjoo Park**  
    **SIGMOD 2024** (research)  
-   [(camera-ready in prep)]() &nbsp;&nbsp; [(source code on GitHub)](https://github.com/illinoisdata/airindex-public)
+   [(camera-ready in prep)]() &nbsp;&nbsp; 
+   [(source code on GitHub)](https://github.com/illinoisdata/airindex-public)
 
 1. **Transactional Python for Durable Machine Learning: Vision, Challenges, and Feasibility**  
    Supawit Chockchowwat, Zhaoheng Li, **Yongjoo Park**  
    **DEEM workshop @SIGMOD 2023** (research)  
-   [(pdf on arxiv)](https://arxiv.org/abs/2305.08770)
+   [(pdf on arxiv)](https://arxiv.org/abs/2305.08770) &nbsp;&nbsp;
+   [(DEEM website)](http://deem-workshop.org/)
 
 1. **Making Data Clouds Smarter at Keebo: Automated Warehouse Optimization using Data Learning**  
    The Keebo Team  
    **SIGMOD 2023** (industry)  
-   [(pdf on acm)](https://dl.acm.org/doi/10.1145/3555041.3589681)
+   [(pdf on ACM)](https://dl.acm.org/doi/10.1145/3555041.3589681)
 
 1. **A Step Toward Deep Online Aggregation**  
-   Nikhil Sheoran, Supawit Chockchowwat, Arav Chheda, Suwen Wang, Riya Verma, **Yongjoo Park**  
+   Nikhil Sheoran\*, Supawit Chockchowwat\*, Arav Chheda, Suwen Wang, Riya Verma, **Yongjoo Park**  
+   \* indicates equal contributions  
    **SIGMOD 2023** (research)  
-   [(pdf on arxiv)](https://arxiv.org/abs/2303.04103)
+   [(pdf on arxiv)](https://arxiv.org/abs/2303.04103) &nbsp;&nbsp;
+   [(on ACM)](https://dl.acm.org/doi/10.1145/3589269)
 
 1. **S/C: Speeding up Data Materialization with Bounded Memory**  
    Zhaoheng Li, Xinyu Pi, **Yongjoo Park**  
@@ -45,16 +49,19 @@ systems, and others.
 1. **[Automatically Finding Optimal Index Structure](https://sites.google.com/view/aidb2022/home/accepted-papers?authuser=0)**  
    Supawit Chockchowwat, Wenjie Liu, **Yongjoo Park**  
    **AIDB workshop @VLDB 2022**  
-   [(pdf)](https://arxiv.org/abs/2208.03823)
+   [(pdf)](https://arxiv.org/abs/2208.03823) &nbsp;&nbsp;
+   [(AIDB website)](https://sites.google.com/view/aidb2022/)
 
 1. **[The Effects of Teaching Modality on Collaborative Learning: A Controlled Study](https://ieeexplore.ieee.org/document/9962705/)**  
    Sophia Yang, **Yongjoo Park**, Abdussalam Alawini  
-   **IEEE Frontiers in Education Conference (FIE) 2022**
+   **IEEE Frontiers in Education Conference (FIE) 2022**  
+   [(on IEEE)](https://ieeexplore.ieee.org/document/9962705)
 
 1. **[Airphant: Cloud-oriented Document Indexing](https://www.computer.org/csdl/proceedings-article/icde/2022/088300b368/1FwFnhXNpq8)**  
    Supawit Chockchowwat, Chaitanya Sood, **Yongjoo Park**  
    **ICDE 2022** (research)  
-   [(pdf)](https://arxiv.org/abs/2112.13323)
+   [(pdf on arxiv)](https://arxiv.org/abs/2112.13323) &nbsp;&nbsp;
+   [(on IEEE)](https://www.computer.org/csdl/proceedings-article/icde/2022/088300b368/1FwFnhXNpq8)
 
 1. **[SAQE: Practical Privacy-Preserving Approximate Query Processing for Data Federations](http://www.vldb.org/pvldb/vol13/p2691-bater.pdf)**  
    Johes Bater, **Yongjoo Park**, Xi He, Xiao Wang, Jennie Rogers  
