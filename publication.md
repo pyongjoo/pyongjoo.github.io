@@ -13,6 +13,11 @@ systems, and others.
 
 ### CONFERENCE PROCEEDINGS
 
+1. **ElasticNotebook: Enabling Live Migration for Computational Notebooks**  
+   Zhaoheng Li, Pranav Gor, Rahul Prabhu, Hui Yu, Yuzhou Mao, **Yongjoo Park**  
+   **PVLDB 2023** (research)  
+   [(camera-ready in prep)]() &nbsp;&nbsp;
+
 1. **LADIO: Leakage-Aware Direct I/O for I/O-Intensive Workloads**  
    Ipoom Jeong, Jiaqi Lou, Yongseok Son, **Yongjoo Park**, Yifan Yuan, and Nam Sung Kim  
    **IEEE CAL 2023**: IEEE Computer Architecture Letters (research)  
@@ -20,7 +25,7 @@ systems, and others.
 1. **AirIndex: Versatile Index Tuning Through Data and Storage**  
    Supawit Chockchowwat, Wenjie Liu, **Yongjoo Park**  
    **SIGMOD 2024** (research)  
-   [(camera-ready in prep)]() &nbsp;&nbsp; 
+   [(pdf on arxiv)](https://arxiv.org/abs/2306.14395) &nbsp;&nbsp;
    [(source code on GitHub)](https://github.com/illinoisdata/airindex-public)
 
 1. **Transactional Python for Durable Machine Learning: Vision, Challenges, and Feasibility**  
@@ -44,7 +49,8 @@ systems, and others.
 1. **S/C: Speeding up Data Materialization with Bounded Memory**  
    Zhaoheng Li, Xinyu Pi, **Yongjoo Park**  
    **ICDE 2023** (research)  
-   [(pdf on arxiv)](https://arxiv.org/abs/2303.09774)
+   [(pdf on arxiv)](https://arxiv.org/abs/2303.09774) &nbsp;&nbsp;
+   [(on IEEE)](https://www.computer.org/csdl/proceedings-article/icde/2023/222700b981/1PByBfqjoxW)
 
 1. **[Automatically Finding Optimal Index Structure](https://sites.google.com/view/aidb2022/home/accepted-papers?authuser=0)**  
    Supawit Chockchowwat, Wenjie Liu, **Yongjoo Park**  
