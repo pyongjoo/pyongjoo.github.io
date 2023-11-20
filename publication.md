@@ -120,6 +120,7 @@ systems, and others.
    [(technical report)](http://arxiv.org/abs/1510.03921),
    [(slides)]({{ site.url }}/resources/vas_slides_icde16.pdf),
    [(demo)](http://yongjoopark.com/vas/)
+   [(code)](https://gitlab.com/pyongjoo/vas)
 
 1. **[Neighbor-Sensitive Hashing](http://www.vldb.org/pvldb/vol9/p144-park.pdf)**  
    **Yongjoo Park**, Michael Cafarella, Barzan Mozafari  
