@@ -44,7 +44,8 @@ systems, and others.
    \* indicates equal contributions  
    **SIGMOD 2023** (research)  
    [(pdf on arxiv)](https://arxiv.org/abs/2303.04103) &nbsp;&nbsp;
-   [(on ACM)](https://dl.acm.org/doi/10.1145/3589269)
+   [(on ACM)](https://dl.acm.org/doi/10.1145/3589269) &nbsp;&nbsp;
+   [(slides)]({{ site.url }}/resources/deepola-sigmod23-slides.pdf)
 
 1. **S/C: Speeding up Data Materialization with Bounded Memory**  
    Zhaoheng Li, Xinyu Pi, **Yongjoo Park**  
