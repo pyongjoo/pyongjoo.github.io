@@ -13,20 +13,25 @@ systems, and others.
 
 ### CONFERENCE PROCEEDINGS
 
-1. **ElasticNotebook: Enabling Live Migration for Computational Notebooks**  
-   Zhaoheng Li, Pranav Gor, Rahul Prabhu, Hui Yu, Yuzhou Mao, **Yongjoo Park**  
-   **PVLDB 2023** (research)  
+1. **Demonstration of ElasticNotebook: Migrating Live Computational Notebook States**  
+   Zhaoheng Li, Supawit Chockchowwat, Hanxi Fang, Ribhav Sahu, Sumay Thakurdesai, Kantanat Pridaphatrakun,  **Yongjoo Park**  
+   **SIGMOD 2024** (demo)  
    [(camera-ready in prep)]() &nbsp;&nbsp;
-
-1. **LADIO: Leakage-Aware Direct I/O for I/O-Intensive Workloads**  
-   Ipoom Jeong, Jiaqi Lou, Yongseok Son, **Yongjoo Park**, Yifan Yuan, and Nam Sung Kim  
-   **IEEE CAL 2023**: IEEE Computer Architecture Letters (research)  
 
 1. **AirIndex: Versatile Index Tuning Through Data and Storage**  
    Supawit Chockchowwat, Wenjie Liu, **Yongjoo Park**  
    **SIGMOD 2024** (research)  
    [(pdf on arxiv)](https://arxiv.org/abs/2306.14395) &nbsp;&nbsp;
    [(source code on GitHub)](https://github.com/illinoisdata/airindex-public)
+
+1. **ElasticNotebook: Enabling Live Migration for Computational Notebooks**  
+   Zhaoheng Li, Pranav Gor, Rahul Prabhu, Hui Yu, Yuzhou Mao, **Yongjoo Park**  
+   **PVLDB 2023** (research)  
+   [(pdf on arxiv)](https://arxiv.org/pdf/2309.11083.pdf) &nbsp;&nbsp;
+
+1. **LADIO: Leakage-Aware Direct I/O for I/O-Intensive Workloads**  
+   Ipoom Jeong, Jiaqi Lou, Yongseok Son, **Yongjoo Park**, Yifan Yuan, and Nam Sung Kim  
+   **IEEE CAL 2023**: IEEE Computer Architecture Letters (research)  
 
 1. **Transactional Python for Durable Machine Learning: Vision, Challenges, and Feasibility**  
    Supawit Chockchowwat, Zhaoheng Li, **Yongjoo Park**  
