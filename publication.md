@@ -16,7 +16,7 @@ systems, and others.
 1. **Demonstration of ElasticNotebook: Migrating Live Computational Notebook States**  
    Zhaoheng Li, Supawit Chockchowwat, Hanxi Fang, Ribhav Sahu, Sumay Thakurdesai, Kantanat Pridaphatrakun,  **Yongjoo Park**  
    **SIGMOD 2024** (demo)  
-   [(camera-ready in prep)]() &nbsp;&nbsp;
+   [(pdf on ACM)](https://dl.acm.org/doi/10.1145/3626246.3654752) &nbsp;&nbsp;
 
 1. **AirIndex: Versatile Index Tuning Through Data and Storage**  
    Supawit Chockchowwat, Wenjie Liu, **Yongjoo Park**  
@@ -32,6 +32,7 @@ systems, and others.
 1. **LADIO: Leakage-Aware Direct I/O for I/O-Intensive Workloads**  
    Ipoom Jeong, Jiaqi Lou, Yongseok Son, **Yongjoo Park**, Yifan Yuan, and Nam Sung Kim  
    **IEEE CAL 2023**: IEEE Computer Architecture Letters (research)  
+   [(IEEE page)](https://ieeexplore.ieee.org/abstract/document/10171430)
 
 1. **Transactional Python for Durable Machine Learning: Vision, Challenges, and Feasibility**  
    Supawit Chockchowwat, Zhaoheng Li, **Yongjoo Park**  
