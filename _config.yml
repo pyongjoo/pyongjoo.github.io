@@ -43,7 +43,7 @@ comments: false
 # Plugins
 plugins:
   # - jekyll-archives
-  - jekyll-paginate
+  # - jekyll-paginate
   - jekyll-tabs
   # - jekyll-sitemap
 
