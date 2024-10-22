@@ -13,9 +13,9 @@ systems, and others.
 
 ### CONFERENCE PROCEEDINGS
 
-1. **Kishu: Time-Traveling for Computational Notebooks**  
+<!-- 1. **Kishu: Time-Traveling for Computational Notebooks**  
    Zhaoheng Li, Supawit Chockchowwat, Areet Sheth, Ribhav Sahu, **Yongjoo Park**  
-   **PVLDB**, to appear (research)
+   **PVLDB**, to appear (research) -->
 
 1. **Demonstration of ElasticNotebook: Migrating Live Computational Notebook States**  
    Zhaoheng Li, Supawit Chockchowwat, Hanxi Fang, Ribhav Sahu, Sumay Thakurdesai, Kantanat Pridaphatrakun,  **Yongjoo Park**  
