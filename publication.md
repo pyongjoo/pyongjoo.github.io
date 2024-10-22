@@ -31,6 +31,7 @@ systems, and others.
 1. **ElasticNotebook: Enabling Live Migration for Computational Notebooks**  
    Zhaoheng Li, Pranav Gor, Rahul Prabhu, Hui Yu, Yuzhou Mao, **Yongjoo Park**  
    **PVLDB 2023** (research)  
+   [(PVLDB)](https://www.vldb.org/pvldb/vol17/p119-li.pdf) &nbsp;&nbsp;
    [(pdf on arxiv)](https://arxiv.org/pdf/2309.11083.pdf) &nbsp;&nbsp;
 
 1. **LADIO: Leakage-Aware Direct I/O for I/O-Intensive Workloads**  
