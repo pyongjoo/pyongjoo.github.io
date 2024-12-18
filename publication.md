@@ -13,14 +13,17 @@ systems, and others.
 
 ### CONFERENCE PROCEEDINGS
 
-<!-- 1. **Kishu: Time-Traveling for Computational Notebooks**  
+1. **Kishu: Time-Traveling for Computational Notebooks**  
    Zhaoheng Li, Supawit Chockchowwat, Areet Sheth, Ribhav Sahu, **Yongjoo Park**  
-   **PVLDB**, to appear (research) -->
+   **PVLDB 2025** (research)  
+   [(pdf on arxiv)](https://arxiv.org/pdf/2406.13856)
 
 1. **Demonstration of ElasticNotebook: Migrating Live Computational Notebook States**  
    Zhaoheng Li, Supawit Chockchowwat, Hanxi Fang, Ribhav Sahu, Sumay Thakurdesai, Kantanat Pridaphatrakun,  **Yongjoo Park**  
    **SIGMOD 2024** (demo)  
+   Awarded: ***Artifacts Available & Evaluated***  
    [(pdf on ACM)](https://dl.acm.org/doi/10.1145/3626246.3654752) &nbsp;&nbsp;
+   
 
 1. **AirIndex: Versatile Index Tuning Through Data and Storage**  
    Supawit Chockchowwat, Wenjie Liu, **Yongjoo Park**  
@@ -54,6 +57,7 @@ systems, and others.
    Nikhil Sheoran\*, Supawit Chockchowwat\*, Arav Chheda, Suwen Wang, Riya Verma, **Yongjoo Park**  
    \* indicates equal contributions  
    **SIGMOD 2023** (research)  
+   Awarded: ***Honorable Mention for Best Artifact***  
    [(pdf on arxiv)](https://arxiv.org/abs/2303.04103) &nbsp;&nbsp;
    [(on ACM)](https://dl.acm.org/doi/10.1145/3589269) &nbsp;&nbsp;
    [(slides)]({{ site.url }}/resources/deepola-sigmod23-slides.pdf)
