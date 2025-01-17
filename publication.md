@@ -13,6 +13,10 @@ systems, and others.
 
 ### CONFERENCE PROCEEDINGS
 
+1. **Enhancing Computational Notebooks with Code+Data Space Versioning**  
+   Hanxi Fang, Supawit Chockchowwat, Hari Sundaram, **Yongjoo Park**  
+   **CHI 2025** (research)  
+
 1. **Kishu: Time-Traveling for Computational Notebooks**  
    Zhaoheng Li, Supawit Chockchowwat, Areet Sheth, Ribhav Sahu, **Yongjoo Park**  
    **PVLDB 2025** (research)  
