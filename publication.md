@@ -13,10 +13,13 @@ systems, and others.
 
 ### CONFERENCE PROCEEDINGS
 
+1. **Demo of Kishu: Time-Traveling for Computational Notebooks**  
+   Zhaoheng Li, Supawit Chockchowwat, Hanxi Fang, **Yongjoo Park**  
+   **SIGMOD 2025** (demo)  
+
 1. **Intel® In-Memory Analytics Accelerator: Performance Characterization and Guidelines**  
    Jaeyoung Kang, Qirong Xia, Ipoom Jeong, **Yongjoo Park**, Nam Sung Kim  
    **ISPASS 2025** (research)  
-
 
 1. **Large-scale Evaluation of Notebook Checkpointing with AI Agents**  
    Hanxi Fang, Supawit Chockchowwat, Hari Sundaram, **Yongjoo Park**  
