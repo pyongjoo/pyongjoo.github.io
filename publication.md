@@ -37,7 +37,6 @@ systems, and others.
 1. **Demonstration of ElasticNotebook: Migrating Live Computational Notebook States**  
    Zhaoheng Li, Supawit Chockchowwat, Hanxi Fang, Ribhav Sahu, Sumay Thakurdesai, Kantanat Pridaphatrakun,  **Yongjoo Park**  
    **SIGMOD 2024** (demo)  
-   Awarded: ***Artifacts Available & Evaluated***  
    [(pdf on ACM)](https://dl.acm.org/doi/10.1145/3626246.3654752) &nbsp;&nbsp;
    
 
@@ -50,6 +49,7 @@ systems, and others.
 1. **ElasticNotebook: Enabling Live Migration for Computational Notebooks**  
    Zhaoheng Li, Pranav Gor, Rahul Prabhu, Hui Yu, Yuzhou Mao, **Yongjoo Park**  
    **PVLDB 2023** (research)  
+   Awarded: ***Artifacts Available & Evaluated***  
    [(PVLDB)](https://www.vldb.org/pvldb/vol17/p119-li.pdf) &nbsp;&nbsp;
    [(pdf on arxiv)](https://arxiv.org/pdf/2309.11083.pdf) &nbsp;&nbsp;
 
