@@ -13,6 +13,10 @@ systems, and others.
 
 ### CONFERENCE PROCEEDINGS
 
+1. **UPP: Universal Predicate Pushdown to Smart Storage**  
+   Ipoom Jeong, Jinghan Huang, Chuxuan Hu, Dohyun Park, Jaeyoung Kang, Nam Sung Kim, **Yongjoo Park**  
+   **ISCA 2025** (research)  
+
 1. **Demo of Kishu: Time-Traveling for Computational Notebooks**  
    Zhaoheng Li, Supawit Chockchowwat, Hanxi Fang, **Yongjoo Park**  
    **SIGMOD 2025** (demo)  
