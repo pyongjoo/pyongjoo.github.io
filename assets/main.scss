@@ -97,7 +97,11 @@ $on-laptop:        800px;
 
 
 	.news-block {
-		margin-top: 20px;
+		margin-top: 10px;
+
+        p {
+            margin-bottom: 10px;
+        }
 	}
 }
 
