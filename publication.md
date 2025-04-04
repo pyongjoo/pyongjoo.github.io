@@ -28,10 +28,12 @@ systems, and others.
 1. **Large-scale Evaluation of Notebook Checkpointing with AI Agents**  
    Hanxi Fang, Supawit Chockchowwat, Hari Sundaram, **Yongjoo Park**  
    **CHI 2025** (late-breaking work)  
+   [(pdf on arxiv)](https://arxiv.org/abs/2504.01377)
 
 1. **Enhancing Computational Notebooks with Code+Data Space Versioning**  
    Hanxi Fang, Supawit Chockchowwat, Hari Sundaram, **Yongjoo Park**  
    **CHI 2025** (research)  
+   [(pdf on arxiv)](https://arxiv.org/abs/2504.01367)
 
 1. **Kishu: Time-Traveling for Computational Notebooks**  
    Zhaoheng Li, Supawit Chockchowwat, Areet Sheth, Ribhav Sahu, **Yongjoo Park**  
