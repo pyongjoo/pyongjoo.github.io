@@ -10,8 +10,15 @@ systems, and others.
 <div style="margin-bottom: 40px;"></div>
 
 
+1. **QStore: Quantization-Aware Compressed Model Storage**  
+   Raunak Shah, Zhaoheng Li, **Yongjoo Park**  
+   **arXiv 2025** (preprint)  
+   [(pdf)](https://arxiv.org/abs/2505.04081)
 
-### CONFERENCE PROCEEDINGS
+1. **MojoFrame: Dataframe Library in Mojo Language**  
+   Shengya Huang, Zhaoheng Li, Derek Werner, **Yongjoo Park**  
+   **arXiv 2025** (preprint)  
+   [(pdf)](https://arxiv.org/abs/2505.04080)
 
 1. **UPP: Universal Predicate Pushdown to Smart Storage**  
    Ipoom Jeong, Jinghan Huang, Chuxuan Hu, Dohyun Park, Jaeyoung Kang, Nam Sung Kim, **Yongjoo Park**  
@@ -224,6 +231,17 @@ systems, and others.
 
 ### TALKS
 
+1. "Efficient KV Cache Management for Retrieval-Augmented Generation," Chungbuk National University, South Korea, May 14 2025
+1. "Managing Exploratory AI," SysNet Retreat, University of Illinois Urbana-Champaign, May 5 2025
+1. "Managing Exploratory AI," Northeastern University, May 2 2025
+1. "Managing Exploratory AI," MIT, April 30 2025
+1. "Managing Exploratory AI," Boston University, April 28 2025
+1. "Undoable Jupyter with a Novel Data Management Layer," Columbia University, November 2024
+1. "TheVault: Accelerating Scientific Discovery with Reliable and Reproducible Machine Learning," NCSA Fellow Lightning Talk, National Center for Supercomputing Applications, October 2024
+1. Database Seminar, Cornell University, March 2023
+1. CS Colloquium, University of Illinois Urbana-Champaign, via Zoom, February 2021
+1. Dream Lab, University of Massachusetts Amherst, via Zoom, November 2020
+1. AWS User Group, Chicago, Nov 2019
 1. SIGMOD, Amsterdam, June 2019
 1. WAX workshop, Phoenix, June 2019
 1. Criteo NABD conference, Ann Arbor, May 2019
