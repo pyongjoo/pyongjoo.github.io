@@ -9,10 +9,14 @@ systems, and others.
 
 <div style="margin-bottom: 40px;"></div>
 
-1. **PBE Meets LLM: When Few Examples Aren’t Few-Shot Enough**  
+
+1. **SIEVE: Effective Filtered Vector Search with Collection of Indexes**  
+   Zhaoheng Li, Silu Huang, Wei Ding, **Yongjoo Park**, Jianjun Chen  
+   **PVLDB 2025** (research)  
+
+1. **PBE Meets LLM: When Few Examples Aren't Few-Shot Enough**  
    Shuning Zhang, **Yongjoo Park**  
    **International Workshop on Quality in Databases (QDB) @VLDB 2025** (research)  
-
 
 1. **QStore: Quantization-Aware Compressed Model Storage**  
    Raunak Shah, Zhaoheng Li, **Yongjoo Park**  
@@ -27,10 +31,12 @@ systems, and others.
 1. **UPP: Universal Predicate Pushdown to Smart Storage**  
    Ipoom Jeong, Jinghan Huang, Chuxuan Hu, Dohyun Park, Jaeyoung Kang, Nam Sung Kim, **Yongjoo Park**  
    **ISCA 2025** (research)  
+   [(pdf on ACM)](https://dl.acm.org/doi/pdf/10.1145/3695053.3731005)
 
 1. **Demo of Kishu: Time-Traveling for Computational Notebooks**  
    Zhaoheng Li, Supawit Chockchowwat, Hanxi Fang, **Yongjoo Park**  
    **SIGMOD 2025** (demo)  
+   [(pdf on ACM)](https://dl.acm.org/doi/pdf/10.1145/3722212.3725095)
 
 1. **Intel® In-Memory Analytics Accelerator: Performance Characterization and Guidelines**  
    Jaeyoung Kang, Qirong Xia, Ipoom Jeong, **Yongjoo Park**, Nam Sung Kim  
@@ -57,7 +63,6 @@ systems, and others.
    **SIGMOD 2024** (demo)  
    [(pdf on ACM)](https://dl.acm.org/doi/10.1145/3626246.3654752) &nbsp;&nbsp;
    
-
 1. **AirIndex: Versatile Index Tuning Through Data and Storage**  
    Supawit Chockchowwat, Wenjie Liu, **Yongjoo Park**  
    **SIGMOD 2024** (research)  
