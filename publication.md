@@ -10,6 +10,10 @@ systems, and others.
 <div style="margin-bottom: 40px;"></div>
 
 
+1. **Cache-of-Thought: Master-Apprentice Framework for Cost-Effective Vision Language Model Inference**  
+   Mingyuan Wu, Jize Jiang, Haozhen Zheng, Meitang Li, Zhaoheng Li, Beitong Tian, Bo Chen, **Yongjoo Park**, Minjia Zhang, ChengXiang Zhai, Klara Nahrstedt  
+   **EMNLP 2025 (Main Conference)** (research)  
+
 1. **SIEVE: Effective Filtered Vector Search with Collection of Indexes**  
    Zhaoheng Li, Silu Huang, Wei Ding, **Yongjoo Park**, Jianjun Chen  
    **PVLDB 2025** (research)  
