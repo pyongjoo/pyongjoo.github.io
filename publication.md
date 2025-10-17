@@ -10,6 +10,11 @@ systems, and others.
 <div style="margin-bottom: 40px;"></div>
 
 
+1. **QStore: Quantization-Aware Compressed Model Storage**  
+   Raunak Shah, Zhaoheng Li, **Yongjoo Park**  
+   **PVLDB 2026** (research)  
+   [(pdf)](https://arxiv.org/abs/2505.04081)
+
 1. **Cache-of-Thought: Master-Apprentice Framework for Cost-Effective Vision Language Model Inference**  
    Mingyuan Wu, Jize Jiang, Haozhen Zheng, Meitang Li, Zhaoheng Li, Beitong Tian, Bo Chen, **Yongjoo Park**, Minjia Zhang, ChengXiang Zhai, Klara Nahrstedt  
    **EMNLP 2025 (Main Conference)** (research)  
@@ -21,11 +26,7 @@ systems, and others.
 1. **PBE Meets LLM: When Few Examples Aren't Few-Shot Enough**  
    Shuning Zhang, **Yongjoo Park**  
    **International Workshop on Quality in Databases (QDB) @VLDB 2025** (research)  
-
-1. **QStore: Quantization-Aware Compressed Model Storage**  
-   Raunak Shah, Zhaoheng Li, **Yongjoo Park**  
-   **arXiv 2025** (preprint)  
-   [(pdf)](https://arxiv.org/abs/2505.04081)
+   [(pdf)](https://arxiv.org/abs/2507.05403)
 
 1. **MojoFrame: Dataframe Library in Mojo Language**  
    Shengya Huang, Zhaoheng Li, Derek Werner, **Yongjoo Park**  
