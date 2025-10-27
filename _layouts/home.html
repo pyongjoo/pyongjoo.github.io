@@ -50,6 +50,10 @@ layout: default
           </p>
         {% endif %}
       </li>
+      
+      {% unless forloop.last %}
+      <hr />
+      {% endunless %}
 
       {% endif %}
 

@@ -10,6 +10,11 @@ systems, and others.
 <div style="margin-bottom: 40px;"></div>
 
 
+1. **MojoFrame: Dataframe Library in Mojo Language**  
+   Shengya Huang, Zhaoheng Li, Derek Werner, **Yongjoo Park**  
+   **ICDE 2026** (research)  
+   [(pdf)](https://arxiv.org/abs/2505.04080)
+
 1. **QStore: Quantization-Aware Compressed Model Storage**  
    Raunak Shah, Zhaoheng Li, **Yongjoo Park**  
    **PVLDB 2026** (research)  
@@ -28,11 +33,6 @@ systems, and others.
    **International Workshop on Quality in Databases (QDB) @VLDB 2025** (research)  
    [(pdf)](https://arxiv.org/abs/2507.05403)
 
-1. **MojoFrame: Dataframe Library in Mojo Language**  
-   Shengya Huang, Zhaoheng Li, Derek Werner, **Yongjoo Park**  
-   **arXiv 2025** (preprint)  
-   [(pdf)](https://arxiv.org/abs/2505.04080)
-
 1. **UPP: Universal Predicate Pushdown to Smart Storage**  
    Ipoom Jeong, Jinghan Huang, Chuxuan Hu, Dohyun Park, Jaeyoung Kang, Nam Sung Kim, **Yongjoo Park**  
    **ISCA 2025** (research)  
@@ -46,6 +46,7 @@ systems, and others.
 1. **Intel® In-Memory Analytics Accelerator: Performance Characterization and Guidelines**  
    Jaeyoung Kang, Qirong Xia, Ipoom Jeong, **Yongjoo Park**, Nam Sung Kim  
    **ISPASS 2025** (research)  
+   [(pdf)](https://ieeexplore.ieee.org/document/11096374)  
    Awarded: ***Best paper nominee***, ***Distinguished Artifact Award***  
 
 1. **Large-scale Evaluation of Notebook Checkpointing with AI Agents**  
@@ -61,7 +62,8 @@ systems, and others.
 1. **Kishu: Time-Traveling for Computational Notebooks**  
    Zhaoheng Li, Supawit Chockchowwat, Areet Sheth, Ribhav Sahu, **Yongjoo Park**  
    **PVLDB 2025** (research)  
-   [(pdf on arxiv)](https://arxiv.org/pdf/2406.13856)
+   [(pdf on arxiv)](https://arxiv.org/pdf/2406.13856)  
+   Also presented at [PyConUS'25](https://us.pycon.org/2025/schedule/presentation/92/) and [JupyterCon'25](https://jupytercon2025.sched.com/event/28H5C/worlds-first-undoable-notebook-billy-li-university-of-illinois-urbana-champaign)
 
 1. **Demonstration of ElasticNotebook: Migrating Live Computational Notebook States**  
    Zhaoheng Li, Supawit Chockchowwat, Hanxi Fang, Ribhav Sahu, Sumay Thakurdesai, Kantanat Pridaphatrakun,  **Yongjoo Park**  

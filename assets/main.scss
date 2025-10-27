@@ -3,14 +3,15 @@
 ---
 @charset "utf-8";
 
-@import url('https://fonts.googleapis.com/css2?family=Inconsolata&family=Lato:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400;1,600;1,700&family=Poppins:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400;1,600;1,700&family=Poppins:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400;1,600;1,700&family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
 // Our variables
 // $base-font-family: Bitter, "Apple SD Gothic Neo", AppleGothic, NanumBarunGothic, "Malgun Gothic", Dotum, sans-serif;
-$base-font-family: 'Open Sans', sans-serif;
-$monospace-font-family: Monaco, Menlo, Consolas, "Courier New", DotumChe, monospace;
+$base-font-family: 'Inter', sans-serif;
+$heading-font-family: 'Poppins', sans-serif;
+$monospace-font-family: 'Space Mono', Monaco, Menlo, Consolas, "Courier New", monospace;
 $base-font-size:   15px;
-$base-font-weight: 400;
+$base-font-weight: 300;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
 
@@ -56,31 +57,50 @@ $on-laptop:        800px;
 
 // My custom styles
 
+// Apply Poppins to all headings and section titles
+h1, h2, h3, h4, h5, h6 {
+	font-family: $heading-font-family;
+}
+
+// Reduce default monospace font size
+code, pre, kbd, samp, tt {
+	font-size: 0.9em;
+}
+
+// Lighter font weight for bold tags
+b, strong {
+	font-weight: 500;
+}
+
+// Increase spacing after horizontal rules
+hr {
+	margin-bottom: 30px;
+}
 
 .profile {
 	margin-bottom: 30px;
 	
 	.profile-block {
-		font-family: 'Lato', sans-serif;
+		font-family: 'Inter', sans-serif;
 	    font-size: 15px;
-	    font-weight: 400;
+	    font-weight: 300;
 
 	    .profile-name {
-	    	font-family: 'Poppins', sans-serif;
+	    	font-family: $heading-font-family;
 	    	margin-bottom: 20px;
 	    	font-size: 42px;
-	    	font-weight: 500;
+	    	font-weight: 400;
 	    }
 
 	    .profile-position {
-	    	font-family: 'Open Sans', sans-serif;
+	    	font-family: 'Inter', sans-serif;
 	    	font-size: 15px;
 	    }
 
 		.profile-email {
-			font-family: 'Inconsolata', monospace;
-			font-weight: 300;
-			font-size: 16px;
+			font-family: 'Space Mono', monospace;
+			font-weight: 400;
+			font-size: 14px;
 		}
 
 		.profile-image {
@@ -89,7 +109,7 @@ $on-laptop:        800px;
 		}
 
 		.interest {
-			font-family: 'Open Sans', sans-serif;
+			font-family: 'Inter', sans-serif;
 			font-size: 15px;
 			margin-top: 15px;
 		}
@@ -102,6 +122,10 @@ $on-laptop:        800px;
         p {
             margin-bottom: 10px;
         }
+
+		.news-heading {
+			font-size: 14px;
+		}
 	}
 }
 
