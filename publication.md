@@ -23,10 +23,12 @@ systems, and others.
 1. **Cache-of-Thought: Master-Apprentice Framework for Cost-Effective Vision Language Model Inference**  
    Mingyuan Wu, Jize Jiang, Haozhen Zheng, Meitang Li, Zhaoheng Li, Beitong Tian, Bo Chen, **Yongjoo Park**, Minjia Zhang, ChengXiang Zhai, Klara Nahrstedt  
    **EMNLP 2025 (Main Conference)** (research)  
+   [(pdf)](https://arxiv.org/pdf/2502.20587)  
 
 1. **SIEVE: Effective Filtered Vector Search with Collection of Indexes**  
    Zhaoheng Li, Silu Huang, Wei Ding, **Yongjoo Park**, Jianjun Chen  
    **PVLDB 2025** (research)  
+   [(pdf)](https://arxiv.org/pdf/2507.11907)  
 
 1. **PBE Meets LLM: When Few Examples Aren't Few-Shot Enough**  
    Shuning Zhang, **Yongjoo Park**  
