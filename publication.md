@@ -66,7 +66,7 @@ systems, and others.
 
 1. **Kishu: Time-Traveling for Computational Notebooks**  
    Zhaoheng Li, Supawit Chockchowwat, Areet Sheth, Ribhav Sahu, **Yongjoo Park**  
-   **PVLDB 2025** (research)  
+   **PVLDB 2024** (research)  
    [(pdf on arxiv)](https://arxiv.org/pdf/2406.13856)  
    Also presented at [PyConUS'25](https://us.pycon.org/2025/schedule/presentation/92/) and [JupyterCon'25](https://jupytercon2025.sched.com/event/28H5C/worlds-first-undoable-notebook-billy-li-university-of-illinois-urbana-champaign)
 
