@@ -12,6 +12,7 @@ systems, and others.
 1. **Chipmink: Efficient Delta Identification for Massive Object Graph**  
    Supawit Chockchowwat, Sumay Thakurdesai, Zhaoheng Li, Matthew Krafczyk, **Yongjoo Park**  
    **VLDB 2026** (research)
+   [(pdf)](https://arxiv.org/pdf/2511.14162)
 
 1. **MojoFrame: Dataframe Library in Mojo Language**  
    Shengya Huang, Zhaoheng Li, Derek Werner, **Yongjoo Park**  
