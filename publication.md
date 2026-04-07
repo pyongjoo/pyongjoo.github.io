@@ -9,19 +9,19 @@ systems, and others.
 
 <div style="margin-bottom: 40px;"></div>
 
-1. **Chipmink: Efficient Delta Identification for Massive Object Graph**  
-   Supawit Chockchowwat, Sumay Thakurdesai, Zhaoheng Li, Matthew Krafczyk, **Yongjoo Park**  
-   **VLDB 2026** (research)
-   [(pdf)](https://arxiv.org/pdf/2511.14162)
-
 1. **MojoFrame: Dataframe Library in Mojo Language**  
    Shengya Huang, Zhaoheng Li, Derek Werner, **Yongjoo Park**  
    **ICDE 2026** (research)  
    [(pdf)](https://arxiv.org/abs/2505.04080)
 
+1. **Chipmink: Efficient Delta Identification for Massive Object Graph**  
+   Supawit Chockchowwat, Sumay Thakurdesai, Zhaoheng Li, Matthew Krafczyk, **Yongjoo Park**  
+   **PVLDB 2025** (research)
+   [(pdf)](https://arxiv.org/pdf/2511.14162)
+
 1. **QStore: Quantization-Aware Compressed Model Storage**  
    Raunak Shah, Zhaoheng Li, **Yongjoo Park**  
-   **PVLDB 2026** (research)  
+   **PVLDB 2025** (research)  
    [(pdf)](https://arxiv.org/abs/2505.04081)
 
 1. **Cache-of-Thought: Master-Apprentice Framework for Cost-Effective Vision Language Model Inference**  
