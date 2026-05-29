@@ -9,6 +9,11 @@ systems, and others.
 
 <div style="margin-bottom: 40px;"></div>
 
+
+1. **SlotGuard: Stop Oversharing Private Local Context in LLM Agent Transcripts**  
+   Haocheng Xia, **Yongjoo Park**  
+   **Second Workshop on Agents in the Wild: Safety, Security, and Beyond (ICML 2026 AIWILD)**  
+   
 1. **LazyAttention: Efficient Retrieval-Augmented Generation with Deferred Positional Encoding**  
    Haocheng Xia, Mihir Pamnani, Hanxi Fang, Supawit Chockchowwat, **Yongjoo Park**  
    **ICML 2026** 
