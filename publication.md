@@ -16,7 +16,8 @@ systems, and others.
    
 1. **LazyAttention: Efficient Retrieval-Augmented Generation with Deferred Positional Encoding**  
    Haocheng Xia, Mihir Pamnani, Hanxi Fang, Supawit Chockchowwat, **Yongjoo Park**  
-   **ICML 2026** 
+   **ICML 2026**  
+   [(pdf)](https://arxiv.org/abs/2606.04302)
 
 1. **MojoFrame: Dataframe Library in Mojo Language**  
    Shengya Huang, Zhaoheng Li, Derek Werner, **Yongjoo Park**  
