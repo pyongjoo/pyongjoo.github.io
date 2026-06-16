@@ -10,13 +10,21 @@ systems, and others.
 <div style="margin-bottom: 40px;"></div>
 
 
+1. **CADENZA: Compiling Natural-Language Intent into Task-Specific Operator DAGs for Semantic Query Processing**  
+   Jaehyun Ha, **Yongjoo Park**, Wook-Shin Han  
+   **SIGMOD 2027** (research)  
+
 1. **SlotGuard: Stop Oversharing Private Local Context in LLM Agent Transcripts**  
    Haocheng Xia, **Yongjoo Park**  
-   **Second Workshop on Agents in the Wild: Safety, Security, and Beyond (ICML 2026 AIWILD)**  
+   **Second Workshop on Agents in the Wild: Safety, Security, and Beyond (ICML 2026 AIWILD)** (research)  
    
+1. **CADENZA in Action: Breaking the Monolith with Intent-Dependent Plan Spaces for Semantic Queries**  
+   Jaehyun Ha, **Yongjoo Park**, Wook-Shin Han  
+   **VLDB 2026** (demo)  
+
 1. **LazyAttention: Efficient Retrieval-Augmented Generation with Deferred Positional Encoding**  
    Haocheng Xia, Mihir Pamnani, Hanxi Fang, Supawit Chockchowwat, **Yongjoo Park**  
-   **ICML 2026**  
+   **ICML 2026**  (research)  
    [(pdf)](https://arxiv.org/abs/2606.04302)
 
 1. **MojoFrame: Dataframe Library in Mojo Language**  
