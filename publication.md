@@ -13,6 +13,7 @@ systems, and others.
 1. **CADENZA: Compiling Natural-Language Intent into Task-Specific Operator DAGs for Semantic Query Processing**  
    Jaehyun Ha, **Yongjoo Park**, Wook-Shin Han  
    **SIGMOD 2027** (research)  
+   [(pdf)](https://arxiv.org/abs/2606.29151)
 
 1. **SlotGuard: Stop Oversharing Private Local Context in LLM Agent Transcripts**  
    Haocheng Xia, **Yongjoo Park**  
