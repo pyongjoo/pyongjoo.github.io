@@ -18,10 +18,12 @@ systems, and others.
 1. **SlotGuard: Stop Oversharing Private Local Context in LLM Agent Transcripts**  
    Haocheng Xia, **Yongjoo Park**  
    **Second Workshop on Agents in the Wild: Safety, Security, and Beyond (ICML 2026 AIWILD)** (research)  
+   [(pdf)]({{ site.url }}/resources/slotguard.pdf)
    
 1. **CADENZA in Action: Breaking the Monolith with Intent-Dependent Plan Spaces for Semantic Queries**  
    Jaehyun Ha, **Yongjoo Park**, Wook-Shin Han  
    **VLDB 2026** (demo)  
+   [(pdf)](https://arxiv.org/abs/2607.01468)
 
 1. **LazyAttention: Efficient Retrieval-Augmented Generation with Deferred Positional Encoding**  
    Haocheng Xia, Mihir Pamnani, Hanxi Fang, Supawit Chockchowwat, **Yongjoo Park**  
