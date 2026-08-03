@@ -15,6 +15,10 @@ systems, and others.
    **SIGMOD 2027** (research)  
    [(pdf)](https://arxiv.org/abs/2606.29151)
 
+1. **Passes Alone, Fails Together: Benchmarking Semantic Coordination in Parallel LLM-Agent Development**  
+   Haocheng Xia, Eugene Wu, **Yongjoo Park**  
+   **[EXPRESS @SPLASH/ISSTA 2026](https://conf.researchr.org/home/splash-issta-2026/express-2026)**
+
 1. **SlotGuard: Stop Oversharing Private Local Context in LLM Agent Transcripts**  
    Haocheng Xia, **Yongjoo Park**  
    **Second Workshop on Agents in the Wild: Safety, Security, and Beyond (ICML 2026 AIWILD)** (research)  
