@@ -253,6 +253,66 @@
   }
 }
 
+.course-schedule-md + table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: inherit !important;
+  line-height: inherit;
+  margin-top: 8px;
+
+  th,
+  td {
+    border: 1px solid #e5e7eb;
+    padding: 8px 10px;
+    vertical-align: top;
+    font-size: inherit !important;
+    line-height: inherit;
+  }
+
+  thead tr {
+    background-color: #f3f4f6;
+  }
+
+  th {
+    text-align: left;
+    border-color: #d1d5db;
+  }
+
+  th:nth-child(2),
+  td:nth-child(2) {
+    width: 72px;
+    text-align: center;
+  }
+
+  th:nth-child(4),
+  td:nth-child(4) {
+    width: 44%;
+  }
+
+  tbody tr:nth-child(even) {
+    background-color: #fafafa;
+  }
+
+  tbody tr:nth-child(15),
+  tbody tr:nth-child(31) {
+    background-color: #eeeeee;
+  }
+
+  tbody tr:nth-child(27),
+  tbody tr:nth-child(28) {
+    background-color: #eeeeee;
+  }
+}
+
+.policy-callout {
+  margin: 10px 0 12px 0;
+  padding: 10px 12px;
+  background-color: #f3f4f6;
+  border: 1px solid #d1d5db;
+  font-size: $base-font-size;
+  line-height: 1.55;
+}
+
 
 
 /**
