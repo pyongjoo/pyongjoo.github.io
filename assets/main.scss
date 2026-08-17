@@ -78,12 +78,16 @@ hr {
 }
 
 .profile {
-	margin-bottom: 30px;
+	margin-bottom: 10px;
 	
 	.profile-block {
 		font-family: 'Inter', sans-serif;
 	    font-size: 15px;
 	    font-weight: 300;
+
+		.profile-detail {
+			margin-top: 30px;
+		}
 
 	    .profile-name {
 	    	font-family: $heading-font-family;
@@ -111,7 +115,7 @@ hr {
 		.interest {
 			font-family: 'Inter', sans-serif;
 			font-size: 15px;
-			margin-top: 15px;
+			margin-top: 0;
 		}
 	}
 
