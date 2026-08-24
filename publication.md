@@ -15,6 +15,10 @@ systems, and others.
    **SIGMOD 2027** (research)  
    [(pdf)](https://arxiv.org/abs/2606.29151)
 
+1. **Efficient Iterative Retrieval with Heterogeneous Batching**  
+   Dohyun Park, Hubertus Franke, Daniel G Waddington, Swaminathan Sundararaman, **Yongjoo Park**  
+   **EMNLP 2026 (Main Conference)** (research)
+
 1. **Passes Alone, Fails Together: Benchmarking Semantic Coordination in Parallel LLM-Agent Development**  
    Haocheng Xia, Eugene Wu, **Yongjoo Park**  
    **[EXPRESS @SPLASH/ISSTA 2026](https://conf.researchr.org/home/splash-issta-2026/express-2026)**
