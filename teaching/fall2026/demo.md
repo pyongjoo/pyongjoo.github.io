@@ -53,7 +53,7 @@ Students can earn up to 4% extra credit by presenting a demo related to a lectur
 
 Use the [Demo Sign-up Form](https://docs.google.com/forms/d/e/1FAIpQLSdGjxA9EXm11DsGAdeNlAXehm3-PaAzP2HBSHdKYBjhHOkkFQ/viewform?usp=dialog) to reserve your slot.
 
-Sign-ups open exactly 7 days before each class at 11:00 AM. First come, first served.
+Sign-ups open exactly 7 days before each class at 10:00 AM. First come, first served.
 
 
 
